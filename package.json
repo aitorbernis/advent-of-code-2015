@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "create-puzzle": "ts-node ./src/create-puzzle.ts",
+    "create-puzzle": "ts-node ./src/create-puzzle.ts"
   },
   "repository": {
     "type": "git",
