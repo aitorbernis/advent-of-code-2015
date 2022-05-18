@@ -11,7 +11,9 @@
   "scripts": {
     "create-puzzle": "ts-node ./src/create-puzzle.ts",
     "puzzle-1": "ts-node ./src/puzzle-1/index.ts",
-    "puzzle-2": "ts-node ./src/puzzle-2/index.ts"
+    "puzzle-2": "ts-node ./src/puzzle-2/index.ts",
+    "puzzle-3": "ts-node ./src/puzzle-3/index.ts",
+    "puzzle-4": "ts-node ./src/puzzle-4/index.ts"
   },
   "repository": {
     "type": "git",
