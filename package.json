@@ -1,0 +1,21 @@
+{
+  "name": "2015",
+  "version": "1.0.0",
+  "description": "Advent of code 2015",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "create-puzzle": "ts-node ./src/create-puzzle.ts",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitorbernis/advent-of-code-2015.git"
+  },
+  "author": "Aitor Bernis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aitorbernis/advent-of-code-2015/issues"
+  },
+  "homepage": "https://github.com/aitorbernis/advent-of-code-2015#readme"
+}
