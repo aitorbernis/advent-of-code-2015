@@ -4,6 +4,7 @@
   "description": "Advent of code 2015",
   "main": "index.js",
   "dependencies": {
+    "blueimp-md5": "^2.19.0",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.4"
   },
@@ -17,7 +18,9 @@
     "puzzle-5": "ts-node ./src/puzzle-5/index.ts",
     "puzzle-6": "ts-node ./src/puzzle-6/index.ts",
     "puzzle-11": "ts-node ./src/day-6/puzzle-11/index.ts",
-    "puzzle-12": "ts-node ./src/day-6/puzzle-12/index.ts"
+    "puzzle-12": "ts-node ./src/day-6/puzzle-12/index.ts",
+    "puzzle-7": "ts-node ./src/day-4/puzzle-7/index.ts",
+    "puzzle-8": "ts-node ./src/day-4/puzzle-8/index.ts"
   },
   "repository": {
     "type": "git",
