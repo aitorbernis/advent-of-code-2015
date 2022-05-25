@@ -20,7 +20,9 @@
     "puzzle-11": "ts-node ./src/day-6/puzzle-11/index.ts",
     "puzzle-12": "ts-node ./src/day-6/puzzle-12/index.ts",
     "puzzle-7": "ts-node ./src/day-4/puzzle-7/index.ts",
-    "puzzle-8": "ts-node ./src/day-4/puzzle-8/index.ts"
+    "puzzle-8": "ts-node ./src/day-4/puzzle-8/index.ts",
+    "puzzle-9": "ts-node ./src/day-5/puzzle-9/index.ts",
+    "puzzle-10": "ts-node ./src/day-5/puzzle-10/index.ts"
   },
   "repository": {
     "type": "git",
